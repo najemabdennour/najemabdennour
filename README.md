@@ -8,12 +8,12 @@
 [<img alt="ORCID" width="40spx" src="./orcid.svg" />][ORCID]
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=najemabdennour&color=blueviolet&style=plastic&label=Today's_views"/>
+  <img src="https://komarev.com/ghpvc/?username=najemabdennour&color=blueviolet&style=plastic&label=Views"/>
 </p>
 
 <p float="left">
-<img src="https://github-stats-alpha.vercel.app/api?username=najemabdennour&cc=0000&tc=9745f5&ic=fff&bc=0000" alt="najemabdennour" width="330" />
-<img src="https://github-readme-stats.vercel.app/api?username=najemabdennour&show_icons=true&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&hide_title=false&card_width=300px&hide_rank=false&bg_color=0000&theme=midnight-purple" width="330" />
+<img src="https://github-stats-alpha.vercel.app/api?username=najemabdennour&cc=0000&tc=9745f5&ic=fff&bc=0000" alt="najemabdennour" width="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=najemabdennour&show_icons=true&count_private=true&hide=stars,contribs&show_icons=true&hide_border=true&hide_title=false&card_width=400px&hide_rank=false&bg_color=0000&theme=midnight-purple" width="400" />
 </p>
 
 <!-- 
